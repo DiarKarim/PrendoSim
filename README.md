@@ -27,23 +27,23 @@ Before you begin, ensure you have met the following requirements:
 
 `New Unity Project`
 
-![picture](standard3D.png)
+<img align="left" width="200" height="200" src="standard3D.png">
 
 2. Under Unity menu bar press `File` >> `Build Settings`:
 
 `Build Setting`
 
-![picture](build.png)
+<img align="left" width="200" height="200" src="build.png">
 
 2. Under Unity menu bar press `Edit` >> `Project Settings` change the following:
 
 `Physics`
 
-![picture](physics.png)
+<img align="left" width="200" height="200" src="physics.png">
 
 `player`
 
-![picture](player.png)
+<img align="left" width="200" height="200" src="player.png">
 
 ## Importing <PrendoSim>
 
