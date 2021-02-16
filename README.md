@@ -60,7 +60,7 @@ Windows:
 2. In Unity top menu bar go to `Assets` >> `Import Package` >> `Custom Package` and go to where you have downloaded the `PrendoSim.unitypackage` to.
 3. Make sure you import everything. 
 ```
-## Using <project_name>
+## Using <PrendoSim>
 
 To use <PrendoSim>, follow these steps:
 
@@ -70,7 +70,7 @@ To use <PrendoSim>, follow these steps:
 3. You should be able to input and select your options in the user interface shown on the `Game` window.
 ```
 
-## Contributing to <project_name>
+## Contributing to <PrendoSim>
 <!--- If your README is long or you have some specific process or steps you want contributors to follow, consider creating a separate CONTRIBUTING.md file--->
 To contribute to <PrendoSim>, follow these steps:
 
