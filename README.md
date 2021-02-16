@@ -22,7 +22,7 @@ Before you begin, ensure you have met the following requirements:
 Under Unity menu bar press `Edit` >> `Project Settings` change the following:
 
 `Physics`
-![alt text](https://github.com/DiarKarim/PrendoSim/master/physics.png?raw=true)
+![picture](https://github.com/DiarKarim/PrendoSim/master/physics.png?raw=true)
 
 ## Installing <PrendoSim>
 
