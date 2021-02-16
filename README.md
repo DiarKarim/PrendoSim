@@ -99,5 +99,5 @@ If you want to contact me you can reach me at <diarkarim@gmail.com>.
 ## License
 <!--- If you're not sure which open license to use see https://choosealicense.com/--->
 
-This project uses the following license: [<MIT License
->](<https://choosealicense.com/licenses/mit/>).
+This project uses the following license: [MIT License
+](<https://choosealicense.com/licenses/mit/>).
