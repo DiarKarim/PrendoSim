@@ -17,7 +17,12 @@ Before you begin, ensure you have met the following requirements:
 <!--- These are just example requirements. Add, duplicate or remove as required --->
 * You have installed Unity version `2020.1.9f1` or higher.
 * You have a `<Windows/Linux/Mac>` machine.
-* You have read changed Unity's `Project Settings` and `Build Settings` as stated here.
+* You have read changed Unity's `Project Settings` and `Build Settings` as stated here:
+
+Under Unity menu bar press `Edit` >> `Project Settings` change the following:
+
+`Physics`
+![alt text](https://github.com/diarkarim@gmail.com/PrendoSim/main/physics.png?raw=true)
 
 ## Installing <PrendoSim>
 
