@@ -47,16 +47,15 @@ To use <PrendoSim>, follow these steps:
 
 Linux and macOS:
 
-1. Download the attached `PrendoSim.unitypackage` to a location of your choosing:
-[PrendoSim Unity package](https://www.dropbox.com/s/yhhmovezg97nrm9/PrendoSimv1.unitypackage?dl=1)
+1. Download the attached [PrendoSim Unity package](https://www.dropbox.com/s/yhhmovezg97nrm9/PrendoSimv1.unitypackage?dl=1) to a location of your choosing:
+
 ```
 2. In Unity top menu bar go to `Assets` >> `Import Package` >> `Custom Package` and go to where you have downloaded the `PrendoSim.unitypackage` to.
 3. Make sure you import everything. 
 ```
 
 Windows:
-1. Download the attached `PrendoSim.unitypackage` to a location of your choosing:
-[PrendoSim Unity package](https://www.dropbox.com/s/yhhmovezg97nrm9/PrendoSimv1.unitypackage?dl=1)
+1. Download the attached [PrendoSim Unity package](https://www.dropbox.com/s/yhhmovezg97nrm9/PrendoSimv1.unitypackage?dl=1) to a location of your choosing:
 ```
 2. In Unity top menu bar go to `Assets` >> `Import Package` >> `Custom Package` and go to where you have downloaded the `PrendoSim.unitypackage` to.
 3. Make sure you import everything. 
