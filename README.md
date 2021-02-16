@@ -19,7 +19,13 @@ Before you begin, ensure you have met the following requirements:
 * You have a `<Windows/Linux/Mac>` machine.
 * You have read changed Unity's `Project Settings` and `Build Settings` as stated here:
 
-1. Under Unity menu bar press `File` >> `Build Settings`:
+1. From Unity Hub 2.4 or higher create a new Unity project with the standard 3D renderer template:
+
+`New Unity Project`
+
+![picture](standard3D.png)
+
+2. Under Unity menu bar press `File` >> `Build Settings`:
 
 `Build Setting`
 
@@ -35,20 +41,22 @@ Before you begin, ensure you have met the following requirements:
 
 ![picture](player.png)
 
-## Installing <PrendoSim>
+## Importing <PrendoSim>
 
-To install <PrendoSim>, follow these steps:
+To use <PrendoSim>, follow these steps:
 
 Linux and macOS:
 ```
-1. Download the attached `PrendoSim.unitypackage` to a location of your choosing. 
+1. Download the attached `PrendoSim.unitypackage` to a location of your choosing:
+https://www.dropbox.com/s/yhhmovezg97nrm9/PrendoSimv1.unitypackage?dl=1
 2. In Unity top menu bar go to `Assets` >> `Import Package` >> `Custom Package` and go to where you have downloaded the `PrendoSim.unitypackage` to.
 3. Make sure you import everything. 
 ```
 
 Windows:
 ```
-1. Download the attached `PrendoSim.unitypackage` to a location of your choosing. 
+1. Download the attached `PrendoSim.unitypackage` to a location of your choosing:
+https://www.dropbox.com/s/yhhmovezg97nrm9/PrendoSimv1.unitypackage?dl=1
 2. In Unity top menu bar go to `Assets` >> `Import Package` >> `Custom Package` and go to where you have downloaded the `PrendoSim.unitypackage` to.
 3. Make sure you import everything. 
 ```
