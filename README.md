@@ -1,6 +1,6 @@
 # PrendoSim
 
-<img style="float: right;" src="prendosim2.png">
+<img style="float: center;" src="prendosim2.png">
 
 <!--- These are examples. See https://shields.io for others or to customize this set of shields. You might want to include dependencies, project status and licence info here --->
 ![GitHub repo size](https://github.com/DiarKarim/PrendoSim/README-template.md)
