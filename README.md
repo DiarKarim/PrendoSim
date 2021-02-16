@@ -1,6 +1,6 @@
 # PrendoSim
 
-[logo image](prendosim.png)
+![logo image](prendosim.png)
 
 <!--- These are examples. See https://shields.io for others or to customize this set of shields. You might want to include dependencies, project status and licence info here --->
 ![GitHub repo size](https://github.com/DiarKarim/PrendoSim/README-template.md)
