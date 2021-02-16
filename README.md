@@ -43,7 +43,7 @@ Before you begin, ensure you have met the following requirements:
 
 `player`
 
-<img align="center" width="600" height="300" src="player.png">
+<img align="center" width="600" height="150" src="player.png">
 
 ## Importing <PrendoSim>
 
