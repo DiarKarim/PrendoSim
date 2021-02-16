@@ -1,5 +1,7 @@
 # PrendoSim
 
+<img align="right" width="100" height="100" src=(player.png)
+
 <!--- These are examples. See https://shields.io for others or to customize this set of shields. You might want to include dependencies, project status and licence info here --->
 ![GitHub repo size](https://github.com/DiarKarim/PrendoSim/README-template.md)
 ![GitHub contributors](https://github.com/DiarKarim/PrendoSim/README-template.md)
