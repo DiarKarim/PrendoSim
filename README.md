@@ -19,10 +19,21 @@ Before you begin, ensure you have met the following requirements:
 * You have a `<Windows/Linux/Mac>` machine.
 * You have read changed Unity's `Project Settings` and `Build Settings` as stated here:
 
-Under Unity menu bar press `Edit` >> `Project Settings` change the following:
+1. Under Unity menu bar press `File` >> `Build Settings`:
+
+`Build Setting`
+
+![picture](build.png)
+
+2. Under Unity menu bar press `Edit` >> `Project Settings` change the following:
 
 `Physics`
+
 ![picture](physics.png)
+
+`player`
+
+![picture](player.png)
 
 ## Installing <PrendoSim>
 
