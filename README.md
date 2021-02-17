@@ -11,13 +11,13 @@
 ![GitHub forks](https://github.com/DiarKarim/PrendoSim/README-template.md?style=social)
 <!-- ![Twitter Follow](https://github.com/DiarKarim/PrendoSim?style=social) -->
 
-PrendoSim is a robot gripper simulator that allows robotistics to do generate and test viable grasps using a novel grasp stability metric.
+PrendoSim is a robot gripper simulator that allows scientists working on robotics to do generate and test viable grasps using a proxy-hand method and a novel grasp stability metric based on the amount of weight that can be withstand.
 
-This simulator takes advantage of Unity's latest NVIDIA PhysX 4.1 integration to create physically realistic grasp simulations and outputs images in png format and joint pose data of the grippers digits and object's involved in json format. 
+This simulator takes advantage of Unity's latest NVIDIA PhysX 4.1 integration to create physically realistic grasp simulations and outputs joint pose data of the grippers digits (json format), grasped object's position, and images of the grasp from a specified point of view in png format. 
 
 ## Prerequisites
 
-Before you begin, ensure you have met the following requirements:
+Before you begin, ensure that the following requirements are met:
 <!--- These are just example requirements. Add, duplicate or remove as required --->
 * You have installed Unity version `2020.1.9f1` or higher.
 * You have a `<Windows/Linux/Mac>` machine.
@@ -49,7 +49,7 @@ Before you begin, ensure you have met the following requirements:
 
 To use <PrendoSim>, follow these steps:
 
-1. Download the attached [PrendoSim Unity package](https://www.dropbox.com/s/yhhmovezg97nrm9/PrendoSimv1.unitypackage?dl=1) to a location of your choosing:
+1. Download the attached [PrendoSim Unity package](https://www.dropbox.com/s/yhhmovezg97nrm9/PrendoSimv1.unitypackage?dl=1) and save it:
 
 Linux and macOS:
 ```
@@ -69,8 +69,8 @@ To use <PrendoSim>, follow these steps:
 
 ```
 1. Make sure you are in the PoseGen2 scene located in the Scenes folder. 
-2. Then press the Unity play button at the top. 
-3. You should be able to input and select your options in the user interface shown on the `Game` window.
+2. Then press the Unity `play` button at the top. 
+3. You should now be able to select simulation parameter options in the user interface shown on the `Game` window.
 ```
 
 ## Contributing to <PrendoSim>
@@ -97,7 +97,7 @@ You <!-- might want to consider using something like the [All Contributors](http
 
 ## Contact
 
-If you want to contact me you can reach me at <diarkarim@gmail.com>.
+If you want to contact me, you can reach me at <diarkarim@gmail.com>.
 
 ## License
 <!--- If you're not sure which open license to use see https://choosealicense.com/--->
